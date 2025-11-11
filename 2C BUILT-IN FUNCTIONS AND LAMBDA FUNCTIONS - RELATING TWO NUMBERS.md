@@ -10,7 +10,7 @@ To write a Python program to check the relation between two numbers — whether 
 
 ### ALGORITHM
 
-1. Begin the program.  
+1. Begin the program. 
 2. Use `eval()` to get two numbers (`num1` and `num2`) from the user.  
 3. Define a lambda function `max` that takes two arguments `x` and `y`.  
 4. The lambda function compares the numbers and prints:
