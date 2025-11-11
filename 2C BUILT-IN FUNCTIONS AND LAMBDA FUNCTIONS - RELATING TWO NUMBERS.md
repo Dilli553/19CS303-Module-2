@@ -24,13 +24,13 @@ To write a Python program to check the relation between two numbers — whether 
 **PROGRAM**
 
 212223060265 - SMRITHI K
-
+```
 compare = lambda a, b: f"{a} is greater than {b}" if a > b else (f"{a} is smaller than {b}" if a < b else f"{a} is equal to {b}")
 input1 = int(input())
 input2 = int(input())
 print(compare(input1, input2))
 
-
+```
 **OUTPUT**
 
 ![image](https://github.com/user-attachments/assets/355eee40-cf4e-4640-ab69-aa903c2d98c7)
